@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 I have experience working with various technologies and frameworks, including:
 
-- Front-End: React 13 App directory
+- Front-End: React JS
 - Back-End: Express.js
 - Databases: MongoDB, MySql
 
