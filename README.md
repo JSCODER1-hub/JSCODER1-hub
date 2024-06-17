@@ -35,20 +35,28 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
     </a>
     
 </p>
+
 ## Books
 
 <div align="left">
     <div>
-    Eloquent JavaScript 3rd edition (2018) Written by Marijn Haverbeke. <img src="https://eloquentjavascript.net/3rd_edition/img/cover.jpg" alt="javascript" width="40" height="40"/>
+   1 - Eloquent JavaScript 3rd edition (2018) Written by Marijn Haverbeke. 
+        
+        <img src="https://eloquentjavascript.net/3rd_edition/img/cover.jpg" alt="javascript" width="40" height="40"  />
+        
     </div>
     <div>
-    Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People By Aditya Bhargava<img src="https://m.media-amazon.com/images/I/81HwgKQ39lS._SY385_.jpg" alt="javascript" width="40" height="40"/>
+   2 - Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People By Aditya Bhargava
+       
+        <img src="https://m.media-amazon.com/images/I/81HwgKQ39lS._SY385_.jpg" alt="javascript" width="40" height="40"/>
+        
     </div>
     <div>
-         Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques
-     <img src="https://m.media-amazon.com/images/I/519c6woRbpL._SX342_SY445_.jpg" alt="javascript" width="40" height="40"/>
+    3 - Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques
+     <img src="https://m.media-amazon.com/images/I/519c6woRbpL._SX342_SY445_.jpg" alt="javascript" width="40" height="40" />
     </div>
 </div>
+
 ## About Me
 
 I have experience working with various technologies and frameworks, including:
