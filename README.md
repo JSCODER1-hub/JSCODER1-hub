@@ -35,7 +35,14 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
     </a>
     
 </p>
+## <h3 align="left">Books</h3>
 
+<p align="left">
+    Eloquent JavaScript 3rd edition (2018) <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://eloquentjavascript.net/3rd_edition/img/cover.jpg)" alt="javascript" width="40" height="40"/>
+    - Back-End: Express.js
+    - Databases: MongoDB, MySql
+    
+</p>
 ## About Me
 
 I have experience working with various technologies and frameworks, including:
